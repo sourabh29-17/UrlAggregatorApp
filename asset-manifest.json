@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/UrlAggregatorApp/static/css/main.3f59b241.chunk.css",
+    "main.js": "/UrlAggregatorApp/static/js/main.2c344387.chunk.js",
+    "main.js.map": "/UrlAggregatorApp/static/js/main.2c344387.chunk.js.map",
+    "runtime-main.js": "/UrlAggregatorApp/static/js/runtime-main.c02a76dd.js",
+    "runtime-main.js.map": "/UrlAggregatorApp/static/js/runtime-main.c02a76dd.js.map",
+    "static/js/2.974992a4.chunk.js": "/UrlAggregatorApp/static/js/2.974992a4.chunk.js",
+    "static/js/2.974992a4.chunk.js.map": "/UrlAggregatorApp/static/js/2.974992a4.chunk.js.map",
+    "index.html": "/UrlAggregatorApp/index.html",
+    "static/css/main.3f59b241.chunk.css.map": "/UrlAggregatorApp/static/css/main.3f59b241.chunk.css.map",
+    "static/js/2.974992a4.chunk.js.LICENSE.txt": "/UrlAggregatorApp/static/js/2.974992a4.chunk.js.LICENSE.txt",
+    "static/media/avatar.bb38b674.svg": "/UrlAggregatorApp/static/media/avatar.bb38b674.svg",
+    "static/media/dribbble.e58c38f6.png": "/UrlAggregatorApp/static/media/dribbble.e58c38f6.png",
+    "static/media/github.8962f6f4.png": "/UrlAggregatorApp/static/media/github.8962f6f4.png",
+    "static/media/instagram.a0b6eb5e.png": "/UrlAggregatorApp/static/media/instagram.a0b6eb5e.png",
+    "static/media/playstore.218489e2.png": "/UrlAggregatorApp/static/media/playstore.218489e2.png",
+    "static/media/telegram.747f93fd.png": "/UrlAggregatorApp/static/media/telegram.747f93fd.png",
+    "static/media/twitter.fbc3caef.png": "/UrlAggregatorApp/static/media/twitter.fbc3caef.png",
+    "static/media/website.61d0913f.png": "/UrlAggregatorApp/static/media/website.61d0913f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c02a76dd.js",
+    "static/js/2.974992a4.chunk.js",
+    "static/css/main.3f59b241.chunk.css",
+    "static/js/main.2c344387.chunk.js"
+  ]
+}
